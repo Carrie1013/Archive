@@ -1,4 +1,4 @@
-# 🧭 Projects Archive
+🧭 Selected Projects
 
 ## 🍁 2025 Autumn
 
