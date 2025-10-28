@@ -16,7 +16,7 @@
 
   🎥 Demo: [Project Page](https://www.sundai.club/projects/c11dc3ef-1318-4a2a-9875-6484a1647c8c)
 
----
+
 
 ## ☀️ 2025 Summer
 
@@ -27,7 +27,7 @@
 
   🧩 Repo: [ciss-lawyer-listings]((https://github.com/BU-Spark/ds-ciss-lawyer-listings))
 
----
+
 
 ## 🌸 2025 Spring
 
@@ -50,7 +50,7 @@
   - [‘MET BU Autograder’](https://github.com/BU-Spark/ml-bu-autograder/tree/dev)
   - [‘Identifying Children's "Stranger Danger" Behaviors’](https://github.com/BU-Spark/ml-ciss-behavior/tree/dev)
 
----
+
 
 ## 🍂 2024 Autumn
 
@@ -61,6 +61,6 @@
 
   🧩 Repo: [Bias Detection]((https://github.com/Carrie1013/DS542-Bias-Detection))
 
----
+
 
 📘 *Last updated: October 2025*
