@@ -25,7 +25,7 @@
   🧩 Repo: [ciss-native-ads](https://github.com/BU-Spark/ml-ciss-native-ads)
 - **‘Lawyer Listings Transcription’ at [BU Spark](https://www.bu.edu/spark/)**
 
-  🧩 Repo: [ciss-lawyer-listings]((https://github.com/BU-Spark/ds-ciss-lawyer-listings))
+  🧩 Repo: [ciss-lawyer-listings](https://github.com/BU-Spark/ds-ciss-lawyer-listings)
 
 
 
@@ -56,10 +56,10 @@
 
 - **'Protein Split Site Prediction’ – DS596 Bioinformatics**  
 
-  🧩 Repo: [Protein Prediction]((https://github.com/Carrie1013/DS596-ProteinProject))
+  🧩 Repo: [Protein Prediction](https://github.com/Carrie1013/DS596-ProteinProject)
 - **‘Bias Detection for Generative AI’ – DS542 Deep Learning for Data Science**
 
-  🧩 Repo: [Bias Detection]((https://github.com/Carrie1013/DS542-Bias-Detection))
+  🧩 Repo: [Bias Detection](https://github.com/Carrie1013/DS542-Bias-Detection)
 
 
 
