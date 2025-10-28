@@ -35,13 +35,13 @@
 
 - **‘Analysis on Impact of the 2025 Tariff Policy on Stock Markets of Different Industries’ – DS598 Big Data Management for ML**
 
-  🧩 Repo: [BigData]((https://github.com/Carrie1013/DS598-BigData-FinalProject))
+  🧩 Repo: [BigData](https://github.com/Carrie1013/DS598-BigData-FinalProject)
 
   🎥 Demo: [Drive Link](https://drive.google.com/file/d/1UgI6GFZ2WH-5-j2l5D_T5aEbegJ04n03/view?usp=sharing)
 
 - **‘Massachusetts Registry of Deeds’ at [Mass Mutual](https://www.massmutual.com/) (🥇1st Place, [Data Days for Good](https://www.bu.edu/articles/2025/data-days-for-good/))**  
 
-  🧩 Repo: [Deeds Transcription]((https://github.com/BU-Spark/dd4g-deeds-transcription))
+  🧩 Repo: [Deeds Transcription](https://github.com/BU-Spark/dd4g-deeds-transcription)
 
   🎥 Demo: [Drive Link](https://drive.google.com/file/d/1SPXQ6G9MswibnlBv3CA-xJzIsrTqqsCp/view?usp=sharing)
 
