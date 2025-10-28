@@ -1,6 +1,6 @@
 🧭 Selected Projects
 
-## 🍁 2025 Autumn
+### 🍁 2025 Autumn
 
 - **‘[RhettSearch](https://devpost.com/software/rhettsearch)’ at [DS+X Hackathon](https://ds-x.devpost.com/) (🥇HackBU·1st & 🥇Best Overall)**
    
@@ -18,7 +18,7 @@
 
 
 
-## ☀️ 2025 Summer
+### ☀️ 2025 Summer
 
 - **‘Fossil Fuel Native Advertising Observatory’ at [BU Spark](https://www.bu.edu/spark/)**
 
@@ -29,7 +29,7 @@
 
 
 
-## 🌸 2025 Spring
+### 🌸 2025 Spring
 
 - **‘MARL LLM Approach for Werewolf Game’ – DS543 Reinforcement Learning**
 
@@ -52,7 +52,7 @@
 
 
 
-## 🍂 2024 Autumn
+### 🍂 2024 Autumn
 
 - **'Protein Split Site Prediction’ – DS596 Bioinformatics**  
 
