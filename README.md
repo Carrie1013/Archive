@@ -26,14 +26,15 @@ Selected Projects
 
   🎥 Demo: [Project Page](https://www.sundai.club/projects/c11dc3ef-1318-4a2a-9875-6484a1647c8c)
 
-
+- **DS542 - Deep Learning for Data Science**
+  🧩 Repo: [Discussion Materials](https://github.com/DL4DS/fa2025_discussions)
 
 ### 2025 Summer
 
-- **‘Fossil Fuel Native Advertising Observatory’ at [BU Spark](https://www.bu.edu/spark/)**
+- **‘Fossil Fuel Native Advertising Observatory’ at [BU Spark, 💼 Internship](https://www.bu.edu/spark/)**
 
   🧩 Repo: [ciss-native-ads](https://github.com/BU-Spark/ml-ciss-native-ads)
-- **‘Lawyer Listings Transcription’ at [BU Spark](https://www.bu.edu/spark/)**
+- **‘Lawyer Listings Transcription’ at [BU Spark, 💼 Internship](https://www.bu.edu/spark/)**
 
   🧩 Repo: [ciss-lawyer-listings](https://github.com/BU-Spark/ds-ciss-lawyer-listings)
 
