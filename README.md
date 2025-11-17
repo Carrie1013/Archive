@@ -2,13 +2,17 @@ Selected Projects
 
 ### 2025 Autumn
 
+- **‘Reddit Signal Quantitizing for Market Behavior Analysis’ at [Sundai Club](https://www.sundai.club/)**  
+
+  🎥 Demo: [Project Page](https://www.sundai.club/projects/46b902bf-58c5-4de2-88b5-2921c2f2e764)
+
 - **'[RPG Agent](https://github.com/annaandmandy/moonlit)' at [Hack-Nation](https://projects.hack-nation.ai/#/company/65fa8396-daa9-4283-b6f9-5b09c3ee5994) (🥇Top10 pitching team)**
 
    🧩 Repo: [Moonlit](https://github.com/annaandmandy/moonlit)
 
    🎥 Demo: [Drive Link](https://drive.google.com/drive/folders/1Ohp8AR4weipnP1gO8DxUEgoQ7RsYa1kn?usp=sharing)
 
-- **'[OpenFinTuber](https://www.sundai.club/projects/ab7b6856-58d0-4bb3-be58-3ce64a3f2c23)' at [Sundai Club](https://www.sundai.club/)**
+- **'OpenFinTuber' at [Sundai Club](https://www.sundai.club/)**
 
    🎥 Demo: [Project Page](https://www.sundai.club/projects/ab7b6856-58d0-4bb3-be58-3ce64a3f2c23)
   
