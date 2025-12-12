@@ -1,6 +1,11 @@
 Selected Projects
 
 ### 2025 Autumn
+- **‘Flowr’ at [Sundai Club](https://www.sundai.club/) with Google A2UI**  
+
+  🧩 Demo Site: [Demo](https://flowr-agentui.github.io/site/)
+
+  🎥 Demo: [Project Page](https://www.sundai.club/projects/b1ae726c-e9a3-4fd4-8970-4f6ce1ee0240)
 
 - **‘Reddit Signal Quantitizing for Market Behavior Analysis’ at [Sundai Club](https://www.sundai.club/)**  
 
